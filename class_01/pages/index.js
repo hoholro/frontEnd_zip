@@ -13,3 +13,4 @@ export default function Home() {
     </>
   )
 }
+// jsx 리액트는 전용 html 이다
