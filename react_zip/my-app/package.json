@@ -6,6 +6,8 @@
     
   },
   "dependencies": {
-    
-  }
+    "react-router-dom": "^6.15.0"
+  },
+  "main": "index.js",
+  "license": "MIT"
 }
