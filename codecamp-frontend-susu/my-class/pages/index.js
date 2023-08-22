@@ -10,20 +10,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div>밍밍이와 수경수가 함께하는 리액트여행</div>
+      <div>밍밍이와 함께하는 리액트 매직쇼</div>
     </>
   )
-}
-
-
-function Home(){
-	return (
-		<div className={styles.wrapper}>
-			<h1>로그인</h1>
-			<label className={styles.label}>아이디</label>
-			<input className={styles.input} type="text" />
-			<label className={styles.label}>비밀번호</label>
-			<input className={styles.input} type="password" />
-		</div>
-	)
 }
